@@ -50,5 +50,6 @@ const randomLine = () => {
     return `Hey I got a ${cat} pick up line for you: \n${pickUpLines[cat][rnd]}\n`;
 }
 
+
 console.log(randomLine());
 
